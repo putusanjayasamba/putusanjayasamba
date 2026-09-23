@@ -8,4 +8,3 @@
 ### Games 🎮🕹️
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" /> <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" /> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSHZxckt3ZG9DcWVESzF2d1I3QThjQ3xBTl9pYzRlWHY5UHc5NXgtejNBamZUdXV3b0RUS25DdVBhNXlUMDBORXdYOUFTRlY1ZnVISVJxdm1TZFI4enE0NlgwWjAwa01EVm1OWEtZeXVmbVRGdV9Ya3pTRlpudVVBWnM0&q=https%3A%2F%2Fgithub.com%2Fleviarista%2Fgithub-profile-header-generator&v=Z_Q9kzPUhVg
